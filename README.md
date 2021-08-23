@@ -1,3 +1,3 @@
 # demo-repo
 description:
-  just a draft 
+  a draft 
